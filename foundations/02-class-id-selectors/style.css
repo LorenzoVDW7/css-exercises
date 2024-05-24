@@ -1,0 +1,22 @@
+.cool-class, .cooler-class  {
+    background-color: pink;
+}
+
+#blue-text {
+    color: blue;
+    font-size: xx-large
+}
+
+#green-text {
+    background-color: greenyellow;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+.cool-class {
+    font-size: larger;
+}
+
+.cooler-class {
+    font-size: x-large;
+}
